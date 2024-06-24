@@ -1,4 +1,4 @@
-<h1>Splunk4Rookie s- Workshop</h1>
+<h1>Splunk4Rookies- Workshop</h1>
 
  </h2>
 
