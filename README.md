@@ -175,16 +175,6 @@ In this exercise, I extracted a new field from events using Splunk’s field ext
 
 
 
-<b>2. Configuring the Laptop</b> 
-<p>•I started by replacing the Ethernet module with the Wireless WPC300N module.</p>
-<p align="center">
-<img src="https://imgur.com/JyUdcGg.png" height="65%" width="65%" alt=""/>
-</p>
-
-<p>•Afterward, I connected to the wireless network and verified connectivity by navigating to the cisco.srv webpage.</p>
-<p align="center">
-<img src="https://imgur.com/rVr6Dug.png" height="65%" width="65%" alt=""/>
-</p>
 
 
 <p align="center">
@@ -192,7 +182,7 @@ In this exercise, I extracted a new field from events using Splunk’s field ext
 </p>
 
 <br />
-<p>By following these steps, I successfully created a simple network, configured the end devices, and verified their connectivity.</p>
+<p>Through these exercises, I've improved data visibility and operational insights within Splunk for Buttercup Enterprises, enhancing decision-making across departments with custom apps, tailored dashboards, and targeted data visualisations.</p>
 
 
 <h2>Languages Used</h2>
