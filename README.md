@@ -2,8 +2,32 @@
 
  </h2>
 
-<h2>Description</h2>
-In this task, I created a simple network using Cisco Packet Tracer, configured the end devices, and verified connectivity.<br />
+<h2>Case Study: </h2>
+At the Splunk4Rookies workshop, my case study involved Buttercup Enterprises, a large national online retailer based in the US, offering a wide range of products including books, clothing, and gifts through its online webstore.
+
+Buttercup Enterprises has recently made a significant investment in Splunk and is eager to integrate its capabilities across the business.
+
+Your Role
+
+- You are among the select few: a Splunk power user!
+- Your primary responsibility is to deliver actionable insights to users across various departments.
+
+The teams you support include
+
+- IT Operations
+- DevOps
+- Business Analytics
+- Security and Fraud
+
+Overview of Tasks
+
+- Strengthening digital resilience with Splunk
+- Developing a custom Splunk app
+- Integrating diverse datasets
+- Conducting searches and generating reports
+- Creating new data fields
+- Utilising lookup tables effectively
+- Designing versatile dashboards for multiple scenarios. <br />
 
 <h2>Part 1: Building the Network</h2>
 <br />
