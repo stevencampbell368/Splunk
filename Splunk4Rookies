@@ -73,10 +73,14 @@ In this task, I created a simple network using Cisco Packet Tracer, configured t
 
 <h2>Languages Used</h2>
 
-- <b>Python:</b> Used for scripting and automating tasks within the Packet Tracer environment. 
-- <b>Bash: </b> Used for running command-line interface tools and managing network configurations.
+- <b>SPL (Search Processing Language): </b> Used extensively for querying and analysing data within Splunk. 
+- <b>Regular Expressions (RegEx): </b> Employed for field extraction and pattern matching in data processing.
 
-<h2>Environments Used </h2>
+<h2>Tools and Environments Used </h2>
 
-- <b>Cisco Packet Tracer:</b> Simulation tool for building and configuring the network.
+- <b>Splunk Enterprise: </b> Deployed as the primary platform for data collection, indexing, and analysis.
+- <b>Dashboards and Visualizations with Simple XML: </b> Utilised for creating custom dashboards with visualisations such as Column Charts, Bar Charts, Area Charts, Single Value displays, and Cluster Maps.
+- <b>Global Time Picker: </b> Integrated across dashboards to ensure unified time-based analysis and monitoring.
+- <b>Custom Background Images: </b> Added to dashboards for visual enhancement and brand representation.
+
 
